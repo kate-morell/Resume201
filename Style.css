@@ -1,0 +1,51 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 14px;
+    color:darkolivegreen;
+    background-image: url(marblebackground.jpg);
+    background-size:cover;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+p{ 
+    color:darkolivegreen;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+ol{
+    font-size: 14px;
+    color: darkolivegreen;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+li{
+    font-size: 14px;
+    color: darkolivegreen;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+ul{
+    font-size: 14px;
+    color: darkolivegreen;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+h1,h2,h3,h4 {
+    color: darkolivegreen;
+    text-decoration-color: orangered;
+    text-decoration-line: underline;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+a:visited {
+    color:#ffffff;
+}
+img{
+    display: block;
+    border:solid darkolivegreen 2px;
+    padding: 4px;
+    height: 150px;
+    width: 200px;
+}
+.bold{
+    font-weight: bold;
+}
+a:hover{
+    font-size: 18px;
+    color: darkolivegreen;
+}
